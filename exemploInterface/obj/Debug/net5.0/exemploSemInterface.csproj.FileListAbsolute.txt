@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\exemploSemInterface.exe
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\exemploSemInterface.deps.json
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\exemploSemInterface.runtimeconfig.json
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\exemploSemInterface.runtimeconfig.dev.json
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\exemploSemInterface.dll
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\ref\exemploSemInterface.dll
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\bin\Debug\net5.0\exemploSemInterface.pdb
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.AssemblyInfo.cs
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.dll
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\ref\exemploSemInterface.dll
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.pdb
+C:\Users\andre\source\repos\exemploInterface\exemploInterface\obj\Debug\net5.0\exemploSemInterface.genruntimeconfig.cache
